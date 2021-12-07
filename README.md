@@ -25,9 +25,12 @@ react-reveal라이브러리를 사용하여 스크롤 애니메이션효과를 �
 박스안에 이미지위에 마우스를 올려두면 이미지가 확대되고 이미지가 박스보다 큰 부분은 overflow:hidden으로 가려주었습니다.<br/>
 
 ---
+
+
+🎈 skills<br/>
+
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/lee910814/TODO-List)
 [![HTML](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html&logoColor=black)](github.com/lee910814/TODO-List)
 [![CSS](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=Cssl&logoColor=black)](github.com/lee910814/TODO-List)
 [![REACT](https://img.shields.io/badge/React-09D3AC?style=flat-square&logo=React&logoColor=black)](github.com/lee910814/TODO-List)
 
-🎈 skills<br/>
