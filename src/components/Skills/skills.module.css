@@ -6,22 +6,57 @@
     justify-content: center;
     align-items: center;
     cursor: pointer;
-    border: 1px solid red;
     -webkit-text-stroke:5px black;
     -webkit-text-fill-color:transparent;
+    height: 100vh;
+    scroll-snap-align: start;
+}
+
+/*front*/
+.front{
+    height: 50%;
+    width: 100%;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
 .cards{
     display: flex;
 }
 h1{
-    font-size: 8rem;
+    font-size: 6rem;
+    margin-bottom: 20px;
 }
 .card{
-    padding: 20px;
-    background-color: #FFCC1D;
-    margin: 10px;
+    padding: 10px;
+    border: 3px solid #FFCC1D;
+    margin:20px;
+    overflow: hidden;
+}
+.card:hover{
+    background: rgba(0, 0, 0, 0.2);
 }
 img{
-    width: 200px;
-    height: 200px;
+    width: 100px;
+    height: 100px;
+    object-fit: cover;
+    transform: scale(1.0);
+    transition: transform .5s;
+    padding: 30px;
+}
+.card img:hover{
+    transform:scale(1.5);
+    transition:transform .5s
+}
+
+/*back*/
+.back{
+    height: 50%;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }

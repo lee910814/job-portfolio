@@ -1,0 +1,20 @@
+.right{
+    flex-basis: 50%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+}
+.up{
+    height: 60%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.content{
+    text-align: left;
+    font-size: 3rem;
+}
+.down{
+    height: 30%;
+}

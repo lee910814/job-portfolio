@@ -18,7 +18,6 @@ const Home = (props) => {
                 typeSpeed={100}
                 />
                 </Fade>
-          
             </div>
         </section>
     )

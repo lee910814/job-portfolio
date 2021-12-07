@@ -1,0 +1,12 @@
+.left{
+    flex-basis: 50%;
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+h1{
+    font-size: 4rem;
+    
+}
