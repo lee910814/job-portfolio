@@ -6,7 +6,7 @@
 
 
 css에 새롭게 추가된 scroll-snap을 이용해서 스크롤조작으로 화면전환을 가능하게 했습니다.<br/>
-## scroll-snap은 사용자가 터치 혹은  스크롤 조작을 하였을 때 offset을 설정할 수 있는 속성입니다.<br/>
+###### scroll-snap은 사용자가 터치 혹은  스크롤 조작을 하였을 때 offset을 설정할 수 있는 속성입니다.<br/>
 
 TypewriterEffect 라이브러리로 글자 타이핑 효과를 주었습니다.<br/>
 react-reveal라이브러리를 사용하여 스크롤 애니메이션효과를 쉽게 구현하였습니다.<br/>
