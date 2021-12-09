@@ -2,7 +2,7 @@
 
 ---
 
-![포트폴리오](https://user-images.githubusercontent.com/62333447/145433505-4b7b07b4-867e-4d81-ba56-ac8d0c5cee6c.gif)
+![포트폴리오](https://user-images.githubusercontent.com/62333447/145433842-eaaabe22-dca2-4d1e-8360-cf2842541cf4.gif)
 
 
 css에 새롭게 추가된 scroll-snap을 이용해서 스크롤조작으로 화면전환을 가능하게 했습니다.<br/>
